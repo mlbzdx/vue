@@ -5,3 +5,5 @@ testtesttesttesttesttest
 testtesttesttesttesttest
 changechangechange
 masterchange masterchange
+newBranch changed  new changed
+new changed
