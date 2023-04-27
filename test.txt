@@ -4,4 +4,5 @@ testtesttesttesttesttest
 testtesttesttesttesttest
 testtesttesttesttesttest
 changechangechange
-newBranch changed
+newBranch changed  new changed
+new changed
